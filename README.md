@@ -42,9 +42,5 @@ CDC • Event-driven systems • ETL/ELT • Data Quality & Governance • Time-
 - Architecture RFC participation  
 - Data modeling patterns for analytics & ML  
 
----
-
-## 📫 Connect  
-🔗 **LinkedIn:** https://linkedin.com/in/giselamorrone  
 
 ### ⭐ Thanks for visiting!
