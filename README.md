@@ -1,5 +1,5 @@
 # Hi, I'm Gisela 👋  
-### Data Engineering Manager | Technical Leader | Strategy & Clarity Builder
+
 
 I build high-performing Data Engineering teams and scalable data platforms grounded in ownership, communication, and structured decision-making.  
 I focus on reliable & maintainable data platforms, reducing ambiguity through ownership, enabling analytics/ML with high-quality data, and bringing clarity to complex systems.
