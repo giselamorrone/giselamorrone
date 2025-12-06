@@ -32,30 +32,34 @@ More papers will be added gradually as I migrate older notes into this public pl
 ## 🛠️ Tech Stack & Specialties  
 
 ### **Programming Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?logo=sqlite&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="18"/> **Python**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="18"/> **SQL**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="18"/> **Bash**
+
+---
 
 ### **Data Engineering & Architecture**
-![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apache-airflow&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?logo=google-cloud&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white)
-![Pub/Sub](https://img.shields.io/badge/Pub/Sub-4285F4?logo=google-cloud&logoColor=white)
-![Dataflow](https://img.shields.io/badge/Dataflow-4285F4?logo=google-cloud&logoColor=white)
-![Cloud Storage](https://img.shields.io/badge/Cloud%20Storage-4285F4?logo=google-cloud&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" height="18"/> **Apache Airflow**  
+<img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" height="18"/> **BigQuery**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="18"/> **Google Cloud Platform** (Pub/Sub, Dataflow, Cloud Storage)  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="18"/> **AWS** (S3, Lambda, ECS)
 
-![CDC](https://img.shields.io/badge/CDC%20Pipelines-4A90E2?logo=data&logoColor=white)
-![Event Driven](https://img.shields.io/badge/Event--Driven%20Architecture-FF6F00?logo=apache-kafka&logoColor=white)
-![ETL/ELT](https://img.shields.io/badge/ETL%20%2F%20ELT-6A1B9A?logo=databricks&logoColor=white)
-![Data Quality](https://img.shields.io/badge/Data%20Quality%20%26%20Governance-0A9396)
-![Time Travel](https://img.shields.io/badge/Time--Travel%20Data%20Design-3A0CA3)
+**Concepts & Patterns**
+- CDC pipelines  
+- Event-driven architectures  
+- ETL / ELT design  
+- Data Quality & Governance  
+- Time-travel patterns for ML reproducibility  
+- Metadata, lineage & SLAs  
+
+---
 
 ### **Developer Productivity & Platform Engineering**
-![CI/CD](https://img.shields.io/badge/CI%2FCD-000000?logo=github-actions&logoColor=white)
-![Observability](https://img.shields.io/badge/Observability-FF8800?logo=grafana&logoColor=white)
-![Data Modeling](https://img.shields.io/badge/Data%20Modeling-0353A4)
-![Self-Service](https://img.shields.io/badge/Self--Service%20Tooling-4CAF50)
-![Platform Reliability](https://img.shields.io/badge/Platform%20Reliability-0A9396)
+- CI/CD (GitHub Actions)  
+- Observability (metrics, logging, alerting)  
+- Data modeling & warehouse design  
+- Self-service tooling  
+- Platform reliability & lifecycle management  
 
 ---
 
